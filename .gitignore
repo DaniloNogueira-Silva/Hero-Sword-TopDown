@@ -1,0 +1,44 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de solução do Visual Studio / JetBrains Rider
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.opendb
+*.VC.db
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Unity gerados
+Recordings/
+MemoryCaptures/
+AssetStoreTools*
+
+# Crash reports
+sysinfo.txt
+
+# Builds de plataformas específicas
+*.apk
+*.unitypackage
+*.app
+
+# Plugins de versões (opcional - remova se quiser versionar DLLs nativas)
+/[Aa]ssets/AssetStoreTools*
+
+# Ignorar arquivos de cache de busca do Unity
+.plastic/
