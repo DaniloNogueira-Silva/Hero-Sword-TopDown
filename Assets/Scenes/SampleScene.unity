@@ -224,6 +224,7 @@ GameObject:
   - component: {fileID: 546416483}
   - component: {fileID: 546416482}
   - component: {fileID: 546416481}
+  - component: {fileID: 546416484}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -318,7 +319,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMoviment
   speed: 5
+  facingDirection: 1
   rb: {fileID: 546416482}
+  anim: {fileID: 546416484}
 --- !u!50 &546416482
 Rigidbody2D:
   serializedVersion: 5
@@ -383,6 +386,28 @@ CapsuleCollider2D:
   m_Offset: {x: -0.005625665, y: -0.014064252}
   m_Size: {x: 0.64846575, y: 1.0028836}
   m_Direction: 0
+--- !u!95 &546416484
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546416478}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4065ad36e91c18740a3ac6296f2c3278, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
