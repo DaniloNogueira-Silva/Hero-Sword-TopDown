@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|c:\\users\\pichau\\desktop\\3xvolley\\swordstopdown\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|c:\\users\\pichau\\desktop\\3xvolley\\swordstopdown\\assets\\scripts\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B8ABB48-F53E-82A8-0406-5C20FD7EC7E5}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_Combat.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\Assets\\Scripts\\Enemy_Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Combat.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\Assets\\Scripts\\Enemy_Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Combat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:12:05.558Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T11:08:53.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\3XVolley\\SwordsTopDown\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
